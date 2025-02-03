@@ -1,19 +1,6 @@
-## Hi there 👋
-
-<!--
-**AfiqIrfan04/AfiqIrfan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hi there
 - 🔭 I'm currently study at Universiti Teknologi Malaysia (UTM)
 - 🌱 I’m enroll in Bachelor of Computer Scienece (Computer Network and Security) with Honour
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_4fiqipeng_)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@akenomijuwara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Afiqipeng) 
